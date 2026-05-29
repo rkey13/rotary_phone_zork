@@ -1,0 +1,1973 @@
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Recording message for 0...
+Recording WAVE '/home/codar/rotary_audio/0_20260528_192210_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Finished recording. Saved locally as '0_20260528_192210_new.wav' for future sync.
+Phone Hung Up.
+Aborted by signal Terminated...
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 1 | Current sequence: 11
+
+--- DIALING COMPLETE: 11 ---
+Found 1 exact artifacts. Randomly selected: 11_1779932618362.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Found 1 exact artifacts. Randomly selected: 5_1779955420550.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Found 1 exact artifacts. Randomly selected: 5_1779955420550.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 2 | Current sequence: 12
+
+--- DIALING COMPLETE: 12 ---
+Found 1 exact artifacts. Randomly selected: 12_1779932731149.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+Uploading 0_20260528_192210_new.wav...
+  -> Upload successful!
+
+--- Syncing Active Deployments from Cloudflare ---
+Downloading new deployment for 8: 8_1779995917222.webm...
+  -> [Optimization] Converting 8_1779995917222.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/8_1779995917222.webm
+  -> Download and optimization complete.
+Downloading new deployment for 9: 9_1779995930880.webm...
+  -> [Optimization] Converting 9_1779995930880.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/9_1779995930880.webm
+  -> Download and optimization complete.
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+Special digit 9 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 9_1779995930880.wav
+Roulette playing: 11_1779932618362.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 756_1779952795436.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Roulette playing: 818_1777782445567.wav
+Roulette playing: 171_1779953998814.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 333_1779947186560.wav
+Roulette playing: 174_1779953048866.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 1 | Current sequence: 11
+
+--- DIALING COMPLETE: 11 ---
+Found 1 exact artifacts. Randomly selected: 11_1779932618362.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+Digit registered: 2 | Current sequence: 12
+
+--- DIALING COMPLETE: 12 ---
+*** MENU INPUT RECEIVED: 12 | CURRENT STATE: operator_main ***
+Operator: Invalid choice.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 2 | Current sequence: 2
+Digit registered: 2 | Current sequence: 22
+
+--- DIALING COMPLETE: 22 ---
+Found 1 exact artifacts. Randomly selected: 22_1779929846017.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 171_1779953998814.wav
+Roulette playing: 366_1779952611229.wav
+Roulette playing: 1_1779948619790.wav
+Roulette playing: 221_1779952145136.wav
+Phone Hung Up.
+Phone Off-Hook.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 22222_1777779558477.wav
+Phone Hung Up.
+Phone Off-Hook.
+Roulette playing: 361_1779953829373.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 2 | Current sequence: 2
+Digit registered: 2 | Current sequence: 22
+Digit registered: 2 | Current sequence: 222
+
+--- DIALING COMPLETE: 222 ---
+Found 1 exact artifacts. Randomly selected: 222_1777884229694.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** SPECIAL FUNCTION TRIGGERED: 2 ***
+Special digit 2 is reserved but unassigned.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+*** SPECIAL FUNCTION TRIGGERED: 4 ***
+Special digit 4 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+Digit registered: 5 | Current sequence: 75
+Digit registered: 6 | Current sequence: 756
+Digit registered: 3 | Current sequence: 7563
+
+--- DIALING COMPLETE: 7563 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Phone Hung Up.
+Recording message for 7563...
+Finished recording. Saved locally as '7563_20260528_205528_new.wav' for future sync.
+Recording WAVE '/home/codar/rotary_audio/7563_20260528_205528_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 19_1779933927848.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+*** SPECIAL FUNCTION TRIGGERED: 4 ***
+Special digit 4 is reserved but unassigned.
+Digit registered: 2 | Current sequence: 2
+Digit registered: 1 | Current sequence: 21
+Digit registered: 1 | Current sequence: 211
+Digit registered: 3 | Current sequence: 2113
+Digit registered: 0 | Current sequence: 21130
+
+--- DIALING COMPLETE: 21130 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Recording message for 21130...
+Recording WAVE '/home/codar/rotary_audio/21130_20260528_215512_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Hung Up.
+Finished recording. Saved locally as '21130_20260528_215512_new.wav' for future sync.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 4 | Current sequence: 4
+Digit registered: 4 | Current sequence: 44
+Digit registered: 4 | Current sequence: 444
+Digit registered: 4 | Current sequence: 4444
+Digit registered: 0 | Current sequence: 44440
+
+--- DIALING COMPLETE: 44440 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Recording message for 44440...
+Recording WAVE '/home/codar/rotary_audio/44440_20260528_215601_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Hung Up.
+Finished recording. Saved locally as '44440_20260528_215601_new.wav' for future sync.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 361_1779953829373.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 2_1779927813237.wav
+Roulette playing: 171_1779953998814.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 221_1779952145136.wav
+Roulette playing: 812_1779951392575.wav
+Roulette playing: 7_1779929974327.wav
+Roulette playing: 174_1779953048866.wav
+Roulette playing: 848_1779951635592.wav
+Roulette playing: 333_1779947186560.wav
+Roulette playing: 2222_1777773795684.wav
+Roulette playing: 3_1779927854401.wav
+Roulette playing: 361_1779953829373.wav
+Roulette playing: 15_1779933244959.wav
+Roulette playing: 756_1779952795436.wav
+Roulette playing: 14_1779933035293.wav
+Roulette playing: 333_1779947186560.wav
+Roulette playing: 2024_1779930123437.wav
+Roulette playing: 130_1779951872392.wav
+Roulette playing: 17_1779933593975.wav
+Roulette playing: 22_1779929846017.wav
+Roulette playing: 123_1779929904670.wav
+Roulette playing: 361_1779953829373.wav
+Roulette playing: 22222_1777779558477.wav
+Roulette playing: 19_1779933927848.wav
+Roulette playing: 5_1779955420550.wav
+Roulette playing: 361_1779953829373.wav
+Roulette playing: 470_1779951188140.wav
+Roulette playing: 174_1779953048866.wav
+Roulette playing: 22_1779929846017.wav
+Roulette playing: 89722_1779952213736.wav
+Roulette playing: 350_1779953585965.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 5_1779955420550.wav
+Roulette playing: 555_1779929959565.wav
+Roulette playing: 20_1779934184653.wav
+Roulette playing: 2222_1777773795684.wav
+Roulette playing: 22222_1777779558477.wav
+Roulette playing: 44440_20260528_215601.wav
+Roulette playing: 11_1779932618362.wav
+Roulette playing: 911_1777772005434.wav
+Roulette playing: 12345_1779946719925.wav
+Roulette playing: 7_1779929974327.wav
+Roulette playing: 14_1779933035293.wav
+Roulette playing: 171_1779953998814.wav
+Roulette playing: 1771_1779954399065.wav
+Roulette playing: 0034_1777793671123.wav
+Roulette playing: 22222_1777779558477.wav
+Roulette playing: 2222_1777773795684.wav
+Roulette playing: 888_1780009472061.wav
+Roulette playing: 470_1779951188140.wav
+Roulette playing: 171_1779953998814.wav
+Roulette playing: 220_1779952381558.wav
+Roulette playing: 7563_20260528_205528.wav
+Roulette playing: 333_1779947186560.wav
+Roulette playing: 22_1779929846017.wav
+Roulette playing: 555_1779929959565.wav
+Roulette playing: 911_1777772005434.wav
+Roulette playing: 22222_1777779558477.wav
+Roulette playing: 171_1779953998814.wav
+Roulette playing: 17_1779933593975.wav
+Roulette playing: 222_1777884229694.wav
+Roulette playing: 221_1779952145136.wav
+Roulette playing: 1771_1779954399065.wav
+Roulette playing: 555_1779929959565.wav
+Roulette playing: 21130_20260528_215512.wav
+Roulette playing: 361_1779953829373.wav
+Roulette playing: 888_1780009472061.wav
+Roulette playing: 13_1779932891385.wav
+Roulette playing: 8_1779995917222.wav
+Roulette playing: 222_1777884229694.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 11 | Current sequence: 11
+
+--- DIALING COMPLETE: 11 ---
+Found 1 exact artifacts. Randomly selected: 11_1779932618362.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+Digit registered: 1 | Current sequence: 01
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+Downloading new deployment for 1800: 1800_1780021377847.webm...
+  -> [Optimization] Converting 1800_1780021377847.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/1800_1780021377847.webm
+  -> Download and optimization complete.
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 8 | Current sequence: 18
+Digit registered: 8 | Current sequence: 188
+Digit registered: 3 | Current sequence: 1883
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 8 | Current sequence: 18
+Digit registered: 0 | Current sequence: 180
+Digit registered: 0 | Current sequence: 1800
+
+--- DIALING COMPLETE: 1800 ---
+Found 1 exact artifacts. Randomly selected: 1800_1780021377847.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+Digit registered: 2 | Current sequence: 12
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+Downloading new deployment for 80085: 80085_1780022531240.mp3...
+  -> [Optimization] Converting 80085_1780022531240.mp3 to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/80085_1780022531240.mp3
+  -> Download and optimization complete.
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 8 | Current sequence: 8
+Digit registered: 0 | Current sequence: 80
+Digit registered: 0 | Current sequence: 800
+Digit registered: 8 | Current sequence: 8008
+Digit registered: 5 | Current sequence: 80085
+
+--- DIALING COMPLETE: 80085 ---
+Found 2 exact artifacts. Randomly selected: 80085_1780014163691.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 8 | Current sequence: 8
+Digit registered: 0 | Current sequence: 80
+Digit registered: 0 | Current sequence: 800
+Digit registered: 8 | Current sequence: 8008
+Digit registered: 5 | Current sequence: 80085
+
+--- DIALING COMPLETE: 80085 ---
+Found 1 exact artifacts. Randomly selected: 80085_1780022531240.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Phone Hung Up.
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+
+Sync sequence complete.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 22222_1777779558477.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 8 | Current sequence: 8
+Digit registered: 0 | Current sequence: 80
+Digit registered: 0 | Current sequence: 800
+Digit registered: 8 | Current sequence: 8008
+Digit registered: 5 | Current sequence: 80085
+
+--- DIALING COMPLETE: 80085 ---
+Found 1 exact artifacts. Randomly selected: 80085_1780022531240.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 1 | Current sequence: 1
+Digit registered: 0 | Current sequence: 10
+
+--- DIALING COMPLETE: 10 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Phone Hung Up.
+Recording message for 10...
+Finished recording. Saved locally as '10_20260529_033713_new.wav' for future sync.
+Recording WAVE '/home/codar/rotary_audio/10_20260529_033713_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Off-Hook.
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 361, in <module>
+    handle_completed_number(dialed_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 255, in handle_completed_number
+    handle_special_digit(number)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 222, in handle_special_digit
+    reset_zork() # Ensure the player's inventory and flags are completely wiped clean
+    ^^^^^^^^^^
+NameError: name 'reset_zork' is not defined
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+    zork_engine.init_zork(play_sound, SFX_DIR)
+                          ^^^^^^^^^^
+NameError: name 'play_sound' is not defined
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 19, in <module>
+NameError: name 'play_sound' is not defined
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 386, in <module>
+    handle_completed_number(dialed_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 271, in handle_completed_number
+    handle_special_digit(number)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 225, in handle_special_digit
+    reset_zork() # Ensure the player's inventory and flags are completely wiped clean
+    ^^^^^^^^^^
+NameError: name 'reset_zork' is not defined
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 386, in <module>
+    handle_completed_number(dialed_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 271, in handle_completed_number
+    handle_special_digit(number)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 225, in handle_special_digit
+    zork_engine.reset_zork() # Ensure the player's inventory and flags are completely wiped clean
+    ^^^^^^^^^^
+NameError: name 'reset_zork' is not defined
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Interacting in west_of_house (Logic pending implementation...)
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Zork: Playing description for north_of_house...
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 388, in <module>
+    handle_completed_number(dialed_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 257, in handle_completed_number
+    new_state = zork_engine.handle_zork_main(number)
+  File "/home/codar/rotary_phone/zork_engine.py", line 60, in handle_zork_main
+    new_audio = zork_map[new_room]["audio_desc"]
+                ~~~~~~~~^^^^^^^^^^
+KeyError: 'north_of_house'
+Rotary Archiver initialized. Waiting for interaction...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** SPECIAL FUNCTION TRIGGERED: 1 ***
+Special digit 1 is reserved but unassigned.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Zork: Playing description for north_of_house...
+Traceback (most recent call last):
+  File "/home/codar/rotary_phone/rotary_archive.py", line 388, in <module>
+    handle_completed_number(dialed_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/codar/rotary_phone/rotary_archive.py", line 257, in handle_completed_number
+    new_state = zork_engine.handle_zork_main(number)
+  File "/home/codar/rotary_phone/zork_engine.py", line 60, in handle_zork_main
+    new_audio = zork_map[new_room]["audio_desc"]
+                ~~~~~~~~^^^^^^^^^^
+KeyError: 'north_of_house'
+Rotary Archiver initialized. Waiting for interaction...
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered west_of_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered west_of_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Invalid item selection.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: You climb through the open window into the kitchen.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork: Invalid item selection.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: Invalid item selection.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: Invalid item selection.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: The window is closed.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered forest_path.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered forest_path.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: Invalid item selection.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: You climb through the open window into the kitchen.
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: Invalid item selection.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: Invalid item selection.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: Invalid item selection.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork: Invalid item selection.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+Zork: Invalid item selection.
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: Invalid item selection.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered west_of_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open and empty.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: Reading the leaflet...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open and empty.
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: Reading the leaflet...
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: The mailbox is already open and empty.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: Reading the leaflet...
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory is empty.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Leaflet taken.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 5 | Current sequence: 5
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory is empty.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Leaflet taken.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: Invalid item selection.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: You climb through the open window into the kitchen.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork: Invalid item selection.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Invalid item selection.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: Invalid item selection.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork: Invalid item selection.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Invalid item selection.
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: Invalid item selection.
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 4 | Current sequence: 4
+Digit registered: 1 | Current sequence: 41
+
+--- DIALING COMPLETE: 41 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered kitchen.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: sack
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: sack
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered kitchen.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered living_room.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: Brass lantern taken.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['lantern']
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Elven sword taken.
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: Rug moved, revealing trapdoor.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork: Trapdoor opened.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+Zork (Debug): Entered cellar.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered troll_room.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: troll
+Zork: Player attacked the troll and died.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: Reincarnating...
+Phone Hung Up.
+Rotary Archiver initialized. Waiting for interaction...
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Leaflet taken.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered west_of_house.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+*** MENU INPUT RECEIVED: 1 | CURRENT STATE: operator_main ***
+Operator: Sync selected. Awaiting confirmation.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_sync_confirm ***
+Operator: Confirmed. Running sync...
+Initiating Rotary Archive Sync sequence...
+Internet connection verified.
+
+--- Checking for pending uploads ---
+No new local recordings found.
+
+--- Syncing Active Deployments from Cloudflare ---
+Downloading new deployment for 1234567: 1234567_1780044950577.webm...
+  -> [Optimization] Converting 1234567_1780044950577.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/1234567_1780044950577.webm
+  -> Download and optimization complete.
+Downloading new deployment for 8675309: 8675309_1780045052734.webm...
+  -> [Optimization] Converting 8675309_1780045052734.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/8675309_1780045052734.webm
+  -> Download and optimization complete.
+Downloading new deployment for 6046046: 6046046_1780045144972.webm...
+  -> [Optimization] Converting 6046046_1780045144972.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/6046046_1780045144972.webm
+  -> Download and optimization complete.
+Downloading new deployment for 3546182: 3546182_1780045204240.webm...
+  -> [Optimization] Converting 3546182_1780045204240.webm to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/3546182_1780045204240.webm
+  -> Download and optimization complete.
+Downloading new deployment for 108: 108_1780076924433.mp3...
+  -> [Optimization] Converting 108_1780076924433.mp3 to WAV...
+  -> Optimization complete. Original backed up to: originals_backup/108_1780076924433.mp3
+  -> Download and optimization complete.
+
+Sync sequence complete.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory is empty.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Leaflet taken.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet']
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 6 | Current sequence: 6
+
+--- DIALING COMPLETE: 6 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork (Debug): Entered behind_house.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for behind_house...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: With great effort, you open the window.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered kitchen.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+Zork (Debug): Entered living_room.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 1 | Current sequence: 1
+
+--- DIALING COMPLETE: 1 ---
+Zork: Brass lantern taken.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Playing interaction menu for living_room...
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: Elven sword taken.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+Zork: Inventory contains ['leaflet', 'lantern', 'sword']
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 8 | Current sequence: 8
+
+--- DIALING COMPLETE: 8 ---
+Zork: Looking around...
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+Zork: No menu audio. Auto-interacting with fallback: mailbox
+Zork: Opening the small mailbox. It reveals a leaflet.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 3 | Current sequence: 3
+Digit registered: 8 | Current sequence: 38
+Digit registered: 7 | Current sequence: 387
+Digit registered: 6 | Current sequence: 3876
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 6 | Current sequence: 6
+Digit registered: 6 | Current sequence: 66
+Digit registered: 6 | Current sequence: 666
+
+--- DIALING COMPLETE: 666 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Phone Hung Up.
+Recording message for 666...
+Finished recording. Saved locally as '666_20260529_195047_new.wav' for future sync.
+Recording WAVE '/home/codar/rotary_audio/666_20260529_195047_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 3_1779927854401.wav
+Roulette playing: 9_1779995930880.wav
+Roulette playing: 911_1777772005434.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 12345_1779946719925.wav
+Roulette playing: 14_1779933035293.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 152_1779950531264.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+*** SPECIAL FUNCTION TRIGGERED: 3 ***
+Special digit 3 is reserved but unassigned.
+Digit registered: 5 | Current sequence: 5
+
+--- DIALING COMPLETE: 5 ---
+*** SPECIAL FUNCTION TRIGGERED: 5 ***
+Special digit 5 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 130_1779951872392.wav
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 5 | Current sequence: 5
+Digit registered: 9 | Current sequence: 59
+Digit registered: 4 | Current sequence: 594
+
+--- DIALING COMPLETE: 594 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Phone Hung Up.
+Phone Off-Hook.
+Recording message for 594...
+Recording WAVE '/home/codar/rotary_audio/594_20260529_204810_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Digit registered: 9 | Current sequence: 9
+Digit registered: 0 | Current sequence: 90
+Phone Hung Up.
+Finished recording. Saved locally as '594_20260529_204810_new.wav' for future sync.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+Zork: You can't go that way / Invalid action.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+Zork (Debug): Entered north_of_house.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 3 | Current sequence: 3
+
+--- DIALING COMPLETE: 3 ---
+*** SPECIAL FUNCTION TRIGGERED: 3 ***
+Special digit 3 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** SPECIAL FUNCTION TRIGGERED: 2 ***
+Special digit 2 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 0 | Current sequence: 0
+
+--- DIALING COMPLETE: 0 ---
+*** SPECIAL FUNCTION TRIGGERED: 0 ***
+Starting Operator Menu...
+Digit registered: 2 | Current sequence: 2
+
+--- DIALING COMPLETE: 2 ---
+*** MENU INPUT RECEIVED: 2 | CURRENT STATE: operator_main ***
+Operator: Invalid choice.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+
+--- DIALING COMPLETE: 7 ---
+*** SPECIAL FUNCTION TRIGGERED: 7 ***
+Starting Rotary Roulette...
+Roulette playing: 177_1779951011805.wav
+Roulette playing: 666_20260529_195047.wav
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 2 | Current sequence: 2
+Digit registered: 2 | Current sequence: 22
+
+--- DIALING COMPLETE: 22 ---
+Found 1 exact artifacts. Randomly selected: 22_1779929846017.wav
+Simulating network connection (Ringing)...
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 9 | Current sequence: 9
+
+--- DIALING COMPLETE: 9 ---
+*** SPECIAL FUNCTION TRIGGERED: 9 ***
+
+=== STARTING ZORK ===
+Zork (Description): West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here. A rubber mat saying 'Welcome' lies in front of the door.
+Zork (Instructions): To go North, dial 4. To go South, dial 0. To interact with the mailbox or the mat, dial 2. To check your inventory, dial 5.
+Digit registered: 0 | Current sequence: 0
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 4 | Current sequence: 4
+
+--- DIALING COMPLETE: 4 ---
+*** SPECIAL FUNCTION TRIGGERED: 4 ***
+Special digit 4 is reserved but unassigned.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 4 | Current sequence: 4
+Digit registered: 1 | Current sequence: 41
+Phone Hung Up.
+Phone Off-Hook.
+Digit registered: 7 | Current sequence: 7
+Digit registered: 9 | Current sequence: 79
+
+--- DIALING COMPLETE: 79 ---
+No artifacts found for this exact number. Prompting to record new artifact...
+Phone Hung Up.
+Recording message for 79...
+Finished recording. Saved locally as '79_20260529_212841_new.wav' for future sync.
+Recording WAVE '/home/codar/rotary_audio/79_20260529_212841_new.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Mono
+Phone Off-Hook.
+Phone Hung Up.

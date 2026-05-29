@@ -1,0 +1,80 @@
+from gpiozero import Button
+import time
+import subprocess
+import os
+
+# --- CONFIGURATION ---
+DIAL_PIN = 17 # The GPIO pin connected to your pulse switch
+AUDIO_DIR = "/home/pi/rotary_audio"
+AUDIO_PLAYER = "cvlc" # 'cvlc' (VLC) or 'mpv' work great for webm/m4a. Use --play-and-exit flag for cvlc.
+
+# Setup the button with software debouncing (0.05 seconds usually filters out mechanical noise)
+# pull_up=True means the pin reads HIGH normally, and LOW when the switch connects to Ground
+dial_switch = Button(DIAL_PIN, pull_up=True, bounce_time=0.05)
+
+pulse_count = 0
+dialed_number = ""
+last_pulse_time = time.time()
+is_dialing = False
+
+def handle_pulse():
+    """Triggered every time the rotary switch pulses"""
+    global pulse_count, last_pulse_time, is_dialing
+    is_dialing = True
+    pulse_count += 1
+    last_pulse_time = time.time()
+    print(f"Pulse... ({pulse_count})")
+
+# Assign the function to run whenever the switch is pressed
+dial_switch.when_pressed = handle_pulse
+
+def play_audio(phone_number):
+    """Finds the corresponding audio file and plays it"""
+    print(f"Searching for audio linked to: {phone_number}")
+    
+    # Check for both formats since you save as .webm or .m4a/.mp4
+    possible_extensions = ['.webm', '.m4a', '.mp4']
+    file_to_play = None
+    
+    for ext in possible_extensions:
+        path = os.path.join(AUDIO_DIR, f"{phone_number}{ext}")
+        if os.path.exists(path):
+            file_to_play = path
+            break
+            
+    if file_to_play:
+        print(f"Playing: {file_to_play}")
+        # Run VLC headlessly, play the file, and exit when done
+        subprocess.run([AUDIO_PLAYER, "--play-and-exit", file_to_play])
+    else:
+        print(f"No active deployment found for {phone_number}. Play 'number disconnected' sound here.")
+
+# --- MAIN LOOP ---
+print("Rotary Phone Archive is online. Waiting for input...")
+
+try:
+    while True:
+        time.sleep(0.1)
+        
+        # Logic to determine if a digit is finished (e.g., 0.5 seconds since last pulse)
+        if is_dialing and (time.time() - last_pulse_time > 0.5):
+            # Rotary dials send 10 pulses for the number '0'
+            digit = 0 if pulse_count == 10 else pulse_count
+            dialed_number += str(digit)
+            print(f"Digit registered: {digit}. Current number: {dialed_number}")
+            
+            # Reset pulse count for the next digit
+            pulse_count = 0
+            is_dialing = False
+            
+        # Logic to determine if the WHOLE phone number is finished
+        # E.g., if we have dialed some digits, but 3 seconds have passed without new digits
+        if len(dialed_number) > 0 and not is_dialing and (time.time() - last_pulse_time > 3.0):
+            print(f"\n--- DIALING COMPLETE: {dialed_number} ---")
+            play_audio(dialed_number)
+            
+            # Reset for the next caller
+            dialed_number = ""
+
+except KeyboardInterrupt:
+    print("\nShutting down Rotary Archive.")
