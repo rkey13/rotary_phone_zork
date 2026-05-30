@@ -1,0 +1,10 @@
+
+Dial 1 for this directory.
+Dial 2 for upcoming events.
+Dial 3 for sound camp schedules.
+Dial 4 for the current time.
+Dial 5 for a special broadcast.
+Dial 6 for weather.
+Dial 7 for rotary roulette.
+Dial 9 to play Zork.
+Dial 0 for the operator functions
